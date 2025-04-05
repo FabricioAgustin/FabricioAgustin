@@ -1,16 +1,32 @@
-## Hi there 👋
+<!-- Snake Game -->
+<p align="center"> 
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?username=AgustinGibaut" alt="Snake Game"/> 
+</p>
 
-<!--
-**FabricioAgustin/FabricioAgustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h1 align="center">¡Hola, soy Agustín Gibaut! 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🧑‍💻 Desarrollador de Software <br/>
+  🚀 Siempre aprendiendo
+</p>
+
+---
+
+## 👨‍💻 Sobre mí
+
+```js
+const agustin = {
+  nombre: "Agustín Gibaut",
+  ubicación: "Córdoba Capital, Argentina",
+  estudios: "Desarrollo de Software - Instituto Politécnico Córdoba",
+  tecnologías: ["HTML5", "CSS3", "JavaScript", "Node.js", "React"],
+  pasatiempos: ["Crear webs", "Aprender cosas nuevas", "Jugar con código"],
+  objetivo: "Desarrollar aplicaciones web a medida que aporten valor real 🚀"
+}
+
+
+
+
+
