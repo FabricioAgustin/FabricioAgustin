@@ -28,6 +28,16 @@ const agustin = {
 };
 ```
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FabricioAgustin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioAgustin&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+
 ## 🛠️ Habilidades Técnicas
 
 ### Lenguajes y Frameworks
@@ -54,15 +64,7 @@ const agustin = {
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgustinGibaut&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinGibaut&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ## 🌱 Actualmente aprendiendo
 
