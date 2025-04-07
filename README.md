@@ -85,15 +85,6 @@ const agustin = {
   </a>
 </p>
 
-## 🤝 Abierto a colaboraciones
 
-- Desarrollo de proyectos open source
-- Mentorías y enseñanza
-- Networking y oportunidades de trabajo
-
----
-
-
-⭐️ ¡Gracias por visitar mi perfil! ⭐️
 
 
